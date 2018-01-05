@@ -1,12 +1,14 @@
 # Nyandayeyo
 
 ## About 
+
 Nyandayeyo is a web application platform that allows people to report cases of domestic violence that is currently occuring or occured in a certain place and time.
 Nyandayeyo is a platform designed to combat domestic violence.
 It allows access to information, allowing the opportunity to view the points of care closest to you and through the same to report or report cases of violence occurred.
 In order to have access to the application the user must use his browser with or without active mobile data. Or else, he can access it through the interactive technology USSD that is supported by all cell phones, by entering the code * 202 #, to make the report and see the service stations.
 
 ## Platforms 
+
 Nyandayeyo  is based on PHP and Integrated USSD (Unstructured Supplementary Services Data) service 
 
 ## Features
