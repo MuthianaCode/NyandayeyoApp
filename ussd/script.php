@@ -45,6 +45,7 @@ switch($respondedMenu){
 	if($value==1){
 		showMessage("Registado com sucesso.\n" . $namw. "\n");
 	break;
+	}
 
 	default:
 
